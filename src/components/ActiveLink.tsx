@@ -1,4 +1,4 @@
-//This is activelink componentsś
+//This is activelink components
 
 'use client';
 
