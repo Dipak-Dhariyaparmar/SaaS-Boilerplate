@@ -1,4 +1,4 @@
-//This is active link components
+//This is active link component
 
 'use client';
 
