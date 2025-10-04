@@ -1,3 +1,5 @@
+//This is activelink component
+
 'use client';
 
 import Link from 'next/link';
